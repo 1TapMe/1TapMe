@@ -17,7 +17,9 @@ public class Creaxx implements JavaPlugin {
 
 ![Creaxx's Github Stats](https://github-readme-stats.vercel.app/api?username=CreaxxOG&show_icons=true&theme=dark)
 
-<code-stats>
+<details>
+  <summary>Code Stats</summary>
+
 <!--START_SECTION:waka-->
  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89565%20lines%20of%20code-blue)
@@ -80,4 +82,4 @@ EJS                      1 repo              ████░░░░░░░�
 
  Last Updated on 11/09/2021
 <!--END_SECTION:waka-->
-</code-stats>
+</details>
