@@ -1,6 +1,23 @@
+### Hi there 👋
+
+I am Creaxx, I develop stupid things. 
+
+```java
+public class Creaxx implements JavaPlugin {
+
+    public void onEnable() {
+        System.out.println("Hello there!");
+    }
+    
+    public String getContactInfo() {
+        return "Message me on discord: Creaxx#0001";
+    }
+}
+```
+
 ![Creaxx's Github Stats](https://github-readme-stats.vercel.app/api?username=CreaxxOG&show_icons=true&theme=dark)
 
-<details>
+<code-stats>
 <!--START_SECTION:waka-->
  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89565%20lines%20of%20code-blue)
@@ -63,4 +80,4 @@ EJS                      1 repo              ████░░░░░░░�
 
  Last Updated on 11/09/2021
 <!--END_SECTION:waka-->
-</details>
+</code-stats>
