@@ -21,11 +21,11 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27726%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27727%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 243 Contributions in the Year 2021
+> 🏆 245 Contributions in the Year 2021
  > 
 > 📦 376.7 kB Used in GitHub's Storage 
  > 
@@ -50,10 +50,10 @@ public class Creaxx implements JavaPlugin {
 Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
 Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
 Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Thursday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
 Friday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
 Saturday     44 commits     ██████░░░░░░░░░░░░░░░░░░░   25.73% 
-Sunday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13%
+Sunday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96%
 
 ```
 
