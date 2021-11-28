@@ -21,11 +21,11 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27492%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27523%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 257 Contributions in the Year 2021
+> 🏆 258 Contributions in the Year 2021
  > 
 > 📦 377.0 kB Used in GitHub's Storage 
  > 
@@ -48,11 +48,11 @@ public class Creaxx implements JavaPlugin {
 
 ```text
 Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
+Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
 Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
 Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
 Friday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-Saturday     50 commits     ███████░░░░░░░░░░░░░░░░░░   29.24% 
+Saturday     51 commits     ███████░░░░░░░░░░░░░░░░░░   29.82% 
 Sunday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96%
 
 ```
@@ -84,6 +84,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 27/11/2021
+ Last Updated on 28/11/2021
 <!--END_SECTION:waka-->
 </details>
