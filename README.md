@@ -29,7 +29,7 @@ public class Creaxx implements JavaPlugin {
 
 > 🏆 285 Contributions in the Year 2021
  > 
-> 📦 377.6 kB Used in GitHub's Storage 
+> 📦 377.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
