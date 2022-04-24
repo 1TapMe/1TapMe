@@ -21,13 +21,15 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2033%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 60 Contributions in the Year 2022
  > 
-> 📦 378.3 kB Used in GitHub's Storage 
+> 📦 378.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,6 +82,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 24/04/2022 01:49:05 UTC
+ Last Updated on 24/04/2022 12:38:25 UTC
 <!--END_SECTION:waka-->
 </details>
