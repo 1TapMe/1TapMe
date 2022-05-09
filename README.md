@@ -21,15 +21,15 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2045%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 71 Contributions in the Year 2022
+> 🏆 73 Contributions in the Year 2022
  > 
-> 📦 388.3 kB Used in GitHub's Storage 
+> 📦 388.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@ public class Creaxx implements JavaPlugin {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
 🌆 Daytime    60 commits     ████████░░░░░░░░░░░░░░░░░   33.71% 
-🌃 Evening    91 commits     ████████████░░░░░░░░░░░░░   51.12% 
+🌃 Evening    93 commits     █████████████░░░░░░░░░░░░   52.25% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
+Monday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
 Tuesday      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
 Wednesday    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
 Thursday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
 Friday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
-Saturday     35 commits     █████░░░░░░░░░░░░░░░░░░░░   19.66% 
+Saturday     33 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54% 
 Sunday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48%
 
 ```
@@ -86,6 +86,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/05/2022 12:44:46 UTC
+ Last Updated on 09/05/2022 18:30:35 UTC
 <!--END_SECTION:waka-->
 </details>
