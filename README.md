@@ -21,13 +21,13 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 75 Contributions in the Year 2022
+> 🏆 80 Contributions in the Year 2022
  > 
 > 📦 388.4 kB Used in GitHub's Storage 
  > 
@@ -40,22 +40,22 @@ public class Creaxx implements JavaPlugin {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+🌞 Morning    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
 🌆 Daytime    58 commits     ████████░░░░░░░░░░░░░░░░░   32.58% 
-🌃 Evening    94 commits     █████████████░░░░░░░░░░░░   52.81% 
+🌃 Evening    97 commits     █████████████░░░░░░░░░░░░   54.49% 
 🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
-Tuesday      17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
 Wednesday    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
 Thursday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
 Friday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
 Saturday     31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
-Sunday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48%
+Sunday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8%
 
 ```
 
@@ -86,6 +86,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 10/05/2022 12:48:56 UTC
+ Last Updated on 10/05/2022 18:31:12 UTC
 <!--END_SECTION:waka-->
 </details>
