@@ -21,15 +21,15 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2011%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 97 Contributions in the Year 2022
+> 🏆 98 Contributions in the Year 2022
  > 
-> 📦 388.6 kB Used in GitHub's Storage 
+> 📦 388.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,8 +41,8 @@ public class Creaxx implements JavaPlugin {
 
 ```text
 🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-🌆 Daytime    60 commits     ████████░░░░░░░░░░░░░░░░░   33.9% 
-🌃 Evening    96 commits     █████████████░░░░░░░░░░░░   54.24% 
+🌆 Daytime    61 commits     ████████░░░░░░░░░░░░░░░░░   34.46% 
+🌃 Evening    95 commits     █████████████░░░░░░░░░░░░   53.67% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
 
 ```
@@ -52,9 +52,9 @@ public class Creaxx implements JavaPlugin {
 Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
 Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
 Wednesday    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
-Thursday     32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
+Thursday     31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
 Friday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
-Saturday     29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
+Saturday     30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
 Sunday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73%
 
 ```
@@ -86,6 +86,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/05/2022 12:40:14 UTC
+ Last Updated on 28/05/2022 18:29:13 UTC
 <!--END_SECTION:waka-->
 </details>
