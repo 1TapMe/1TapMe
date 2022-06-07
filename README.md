@@ -21,15 +21,15 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 104 Contributions in the Year 2022
+> 🏆 113 Contributions in the Year 2022
  > 
-> 📦 388.8 kB Used in GitHub's Storage 
+> 📦 388.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@ public class Creaxx implements JavaPlugin {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
-🌆 Daytime    61 commits     ████████░░░░░░░░░░░░░░░░░   34.08% 
-🌃 Evening    97 commits     █████████████░░░░░░░░░░░░   54.19% 
+🌞 Morning    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+🌆 Daytime    55 commits     ███████░░░░░░░░░░░░░░░░░░   30.73% 
+🌃 Evening    104 commits    ██████████████░░░░░░░░░░░   58.1% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Tuesday      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Tuesday      31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 Wednesday    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
-Thursday     30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-Friday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-Saturday     30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
+Thursday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.08% 
+Friday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+Saturday     28 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
 Sunday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29%
 
 ```
@@ -86,6 +86,6 @@ Kotlin                   1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/06/2022 12:46:36 UTC
+ Last Updated on 07/06/2022 18:28:28 UTC
 <!--END_SECTION:waka-->
 </details>
