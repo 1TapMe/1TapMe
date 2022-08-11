@@ -21,19 +21,19 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 253 Contributions in the Year 2022
+> 🏆 254 Contributions in the Year 2022
  > 
 > 📦 228.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -64,14 +64,14 @@ Sunday       16 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     15 hrs 10 mins      ████████████████████░░░░░   81.7% 
-XML                      2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-Kotlin                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Java                     8 hrs 8 mins        █████████████████░░░░░░░░   71.27% 
+XML                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.23% 
+TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 🔥 Editors: 
-IntelliJ                 18 hrs 33 mins      █████████████████████████   100.0%
+IntelliJ                 11 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -87,6 +87,6 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/08/2022 18:29:21 UTC
+ Last Updated on 11/08/2022 06:30:22 UTC
 <!--END_SECTION:waka-->
 </details>
