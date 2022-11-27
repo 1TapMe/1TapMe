@@ -21,19 +21,19 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 765 Contributions in the Year 2022
+> 🏆 772 Contributions in the Year 2022
  > 
 > 📦 66.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -41,8 +41,8 @@ public class Creaxx implements JavaPlugin {
 
 ```text
 🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-🌆 Daytime    257 commits    ████████████░░░░░░░░░░░░░   49.23% 
-🌃 Evening    226 commits    ██████████░░░░░░░░░░░░░░░   43.3% 
+🌆 Daytime    256 commits    ████████████░░░░░░░░░░░░░   49.04% 
+🌃 Evening    227 commits    ██████████░░░░░░░░░░░░░░░   43.49% 
 🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
 
 ```
@@ -53,8 +53,8 @@ Monday       46 commits     ██░░░░░░░░░░░░░░░�
 Tuesday      48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
 Wednesday    85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
 Thursday     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Friday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
-Saturday     132 commits    ██████░░░░░░░░░░░░░░░░░░░   25.29% 
+Friday       39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
+Saturday     136 commits    ██████░░░░░░░░░░░░░░░░░░░   26.05% 
 Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28%
 
 ```
@@ -86,6 +86,6 @@ EJS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2022 18:26:08 UTC
+ Last Updated on 27/11/2022 01:54:22 UTC
 <!--END_SECTION:waka-->
 </details>
