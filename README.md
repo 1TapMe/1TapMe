@@ -74,14 +74,14 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     15 repos            █████████████████░░░░░░░░   68.18% 
-Kotlin                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+Java                     14 repos            ████████████████░░░░░░░░░   66.67% 
+Kotlin                   6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
 ```
 
 
 
- Last Updated on 24/01/2023 01:41:53 UTC
+ Last Updated on 24/01/2023 06:26:05 UTC
 <!--END_SECTION:waka-->
 </details>
