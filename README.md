@@ -21,13 +21,13 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C141%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-551.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 66.3 kB Used in GitHub's Storage 
+> 📦 66.2 kB Used in GitHub's Storage 
  > 
 > 🏆 871 Contributions in the Year 2023
  > 
@@ -62,13 +62,13 @@ Sunday                   627 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 16 mins       ████████████████████████░   94.56 % 
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Java                     3 hrs 24 mins       ████████████████████████░   96.35 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 28 mins       █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -83,6 +83,6 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2023 18:24:21 UTC
+ Last Updated on 23/03/2023 01:27:35 UTC
 <!--END_SECTION:waka-->
 </details>
