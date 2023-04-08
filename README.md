@@ -21,7 +21,7 @@ public class Creaxx implements JavaPlugin {
   <summary>Code Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-549.0%20thousand%20lines%20of%20code-blue)
 
@@ -85,6 +85,6 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2023 01:21:48 UTC
+ Last Updated on 08/04/2023 06:22:26 UTC
 <!--END_SECTION:waka-->
 </details>
