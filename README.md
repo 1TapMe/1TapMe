@@ -24,8 +24,6 @@ public class Creaxx implements JavaPlugin {
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C253%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-504.5%20thousand%20lines%20of%20code-blue)
-    
-![More Stats](https://github-readme-streak-stats.herokuapp.com/?user=CreaxxOG&&theme=radical)
 
 **🐱 My GitHub Data** 
 
