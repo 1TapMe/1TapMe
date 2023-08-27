@@ -62,11 +62,10 @@ Sunday                   1101 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 mins              █████████████████████████   99.51 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -82,6 +81,6 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2023 18:21:07 UTC
+ Last Updated on 27/08/2023 01:16:48 UTC
 <!--END_SECTION:waka-->
 </details>
