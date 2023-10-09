@@ -14,7 +14,6 @@ public class Creaxx implements JavaPlugin {
     }
 }
 ```
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Creaxx&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Creaxx's Github Stats](https://github-readme-stats-cx3w8k30j-creaxxogs-projects.vercel.app/api?username=CreaxxOG&show_icons=true&theme=dark&count_private=true)
 
 <details>
