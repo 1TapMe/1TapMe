@@ -22,11 +22,11 @@ public class Creaxx implements JavaPlugin {
 <!--START_SECTION:waka-->
 
 ```txt
-Java              9 hrs 7 mins    ███████████████████▒░░░░░   77.20 %
-Kotlin            1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-XML               29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-YAML              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Docker            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Java              7 hrs 45 mins   ████████████████████░░░░░   80.32 %
+Kotlin            52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+YAML              21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+IDEA_MODULE       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+XML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
