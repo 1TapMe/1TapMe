@@ -3,7 +3,7 @@
 I am Creaxx, I develop stupid things. 
 
 ```java
-public class Creaxx implements JavaPlugin {
+public class Creaxx extends JavaPlugin {
 
     public void onEnable() {
         System.out.println("Hello there!");
